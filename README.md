@@ -33,7 +33,7 @@ Konnichiwa,ore wa "Jolly-Roger" an Opensource WhatsApp bot made by <a href="http
 
  <a href="https://github.com/Hridoy0016/Jolly-Rogger/blob/main/LICENSE.md">
   
-<img src='https://img.shields.io/github/license/Hridoy0016/One-piece?color=%231e81b0&style=for-the-badge' width="114px">
+<img src='https://img.shields.io/github/license/Hridoy0016/Jolly-Roger?color=%231e81b0&style=for-the-badge' width="114px">
 
 <p align="center">
 <a href="https://github.com/Hridoy0016"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
@@ -55,7 +55,7 @@ Konnichiwa,ore wa "Jolly-Roger" an Opensource WhatsApp bot made by <a href="http
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Hridoy0016/Jolly-Rogger">
+    <a href="https://repl.it/github/Hridoy0016/Jolly-Roger">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -370,7 +370,7 @@ sudo apt install wget
 sudo apt install npm
 sudo apt install imagemagick
 
-git clone https://github.com/Hridoy0016/Atlas
+git clone https://github.com/Hridoy0016/Jolly-Roger 
 
 ls
 cd Night-MD
@@ -393,7 +393,7 @@ npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/Hriody0016/Night/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/Hriody0016/Jolly-Roger/fork) this repo and modified `.env` file and `config.js`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
@@ -522,10 +522,10 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 <br>
     
 
-# ⚡️ Night Platform Compatibility:
+# ⚡️ Jolly Roger Platform Compatibility:
 <br>
 
-- Night offers highest platform compatibility.
+- Jolly Roger offers highest platform compatibility.
 - Just deploy and use on your favourite platform.
 - Sorted by Recommendation: Repl.it, Railway, Heroku, Koyeb
       
@@ -550,8 +550,8 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
       
 <br>
 
-- Read [PublicKeys.md](https://github.com/Hridoy0016/Atlas/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
-- Changeable between `20 added Characters` ( Night, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
+- Read [PublicKeys.md](https://github.com/Hridoy0016/Jolly-Roger/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- Changeable between `20 added Characters` ( Luffy, Nami, Zoro, Sanji, , Ussop, Chopper, Franky, Brook, Ace, and many more) you can add more characters by going inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
 - Single prefix ( "-" ).
@@ -567,7 +567,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 <br>
      
 
-# 〽️ Why Should You Use Atlas as your Base:
+# 〽️ Why Should You Use Jolly Roger as your Base:
 
       
 <details close>
@@ -575,18 +575,18 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/Hridoy0016/Atlas/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Jolly Roger is a `fully open source` bot which means `no copyright`.
+- Jolly Roger is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
+- Jolly Roger is a `multi database bot` which means you can use 3 different databases at the same time.
+- Jolly Roger is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
+- Jolly Roger has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
+- Jolly Roger has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
+- Jolly Roger has 300+ commands.
+- Jolly Roger doesn't store your `Session File` locally which means it's `safe` and `secure`.
+- Jolly Roger has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
+- Jolly Roger has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
+- Jolly Roger is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
+- Jolly Roger comes with [MIT](https://github.com/Hridoy0016/Jolly-Roger/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 </details> 
     
@@ -596,7 +596,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 
 # 🧣 Contributors:
 
-- Check [Night Contributors](https://github.com/Hridoy0016/Atlas/graphs/contributors) list.
+- Check [Jolly Roger Contributors](https://github.com/Hridoy0016/Jolly-Roger/graphs/contributors) list.
 - Feel free to contribute in this project it increase it's stability and update. I will merge your respected contribution after reviewing it.
 - No personal modification / re-branding ( Changing bot name, owner name ) pull requests will be merged !
     
