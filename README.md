@@ -31,7 +31,7 @@ Konnichiwa,ore wa "Jolly-Roger" an Opensource WhatsApp bot made by <a href="http
 <p align="center">
 <a href="https://github.com/Hridoy0016"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Night-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
- <a href="https://github.com/Hridoy0016/Jolly-Rogger/blob/main/LICENSE.md">
+ <a href="https://github.com/Hridoy0016/Jolly-Roger/blob/main/LICENSE.md">
   
 <img src='https://img.shields.io/github/license/Hridoy0016/Jolly-Roger?color=%231e81b0&style=for-the-badge' width="114px">
 
@@ -197,16 +197,16 @@ Konnichiwa,ore wa "Jolly-Roger" an Opensource WhatsApp bot made by <a href="http
 
     
     
-# 📑 Jolly Rogger Deploy and Hosting guide
+# 📑 Jolly Roger Deploy and Hosting guide
 
 <details close>
 <summary>Click to read Deploy Manual</summary>    
     
 ## 🔶 Repl.it Deploy:
       
-- [Fork Main Repo](https://github.com/Hridoy0016/One-piece/fork)
+- [Fork Main Repo](https://github.com/Hridoy0016/Jolly-Roger/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Hridoy0016/One-piece` to your fork URL `https://github.com/<Your GitHub Username>/<Your One-piece fork repo name>`.
+- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Hridoy0016/Jolly-Roger` to your fork URL `https://github.com/<Your GitHub Username>/<Your Jolly-Roger fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
   
 <br>
@@ -531,7 +531,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
       
 <br>
       
-# 💫 Dependencies of Atlas:
+# 💫 Dependencies of Jolly Roger:
 
 <br>
 
