@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Hridoy0016/Jolly-Roger">
-    <img src="https://graph.org/file/b78c0a3b90549516531a1.jpg" width="950" height="550">
+    <img src="https://graph.org/file/b78c0a3b90549516531a1.jpg">
   </a>
 
 <h1 align="center"> 
