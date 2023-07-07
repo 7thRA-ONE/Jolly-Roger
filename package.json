@@ -4,14 +4,15 @@
   "description": "<p align=\"center\"> <a href=\"https://github.com/Hridoy0016/Jolly-Roger\">     <img src=\"https://graph.org/file/b78c0a3b90549516531a1.jpg\">   </a>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/7thRA-ONE/Jolly-Roger.git"
   },
   "keywords": [],
-  "author": "RA-ONE && Hridoy0016 ",
+  "author": "RA-ONE && Hridoy0016",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/7thRA-ONE/Jolly-Roger/issues"
@@ -70,7 +71,7 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.5"
   },
-   "devDependencies": {
+  "devDependencies": {
     "@adiwajshing/eslint-config": "https://github.com/adiwajshing/eslint-config.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@types/got": "^9.6.11",
@@ -90,7 +91,6 @@
     "ts-node": "^10.8.1",
     "typedoc": "^0.24.7",
     "typescript": "^4.0.0"
-    
   },
   "peerDependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",

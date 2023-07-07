@@ -1,5 +1,5 @@
 language="nodejs"
-run="npm i && npm start"
+run="node index.js"
 
 [nix]
 channel = "stable-22_11"
