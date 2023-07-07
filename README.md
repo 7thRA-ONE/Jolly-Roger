@@ -626,7 +626,7 @@ https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/ra
 <a href="https://github.com/Hridoy0016"><img src="https://github.com/Hridoy0016.png?size=100" width="100" height="100"></a> | [![Rishi](https://github.com/Rl1ys.png?size=100)](https://github.com/Rl1ys) 
 ---|---
 [Hridoy](https://github.com/Hridoy0016)  | [Rishi/Sungur🐖](https://github.com/Rl1ys)
-Owner of Night | Useless Worker |
+Owner of Jolly Roger | Useless Worker |
 <a href="https://github.com/Rikuodada"><img src="https://github.com/Rikuodada.png?size=100" width="100" height="100"></a> |
 [Manab/Mp](https://github.com/Rikuodada)
 | Maintainer |
