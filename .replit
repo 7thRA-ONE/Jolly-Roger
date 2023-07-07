@@ -1,2 +1,5 @@
 language="nodejs"
-run="forever index.js"
+run="npm i && np start"
+
+[nix]
+channel = "stable-22_11"
